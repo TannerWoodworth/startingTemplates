@@ -1,5 +1,4 @@
 # Basic Gulp Setup
-=============================
 
 ## How to use
 
