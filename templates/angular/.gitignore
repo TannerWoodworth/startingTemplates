@@ -1,8 +1,9 @@
+# Ignore
+_site
 node_modules
-dist
-.tmp
-.sass-cache
-bower_components
-test/bower_components
-.idea
-*.iml
+.jekyll-metadata
+/files
+/fonts
+/images
+/js
+/css
